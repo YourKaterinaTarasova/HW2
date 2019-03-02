@@ -26,6 +26,10 @@
                     </person>
                     <person xml:id="O">
                         <persName>Ольга</persName>
+                    </person>
+                    <person xml:id="ДЦ">
+                        <persName>дед царский</persName>
+                    </person>
                 </listPerson>
             </particDesc>
         </profileDesc>
@@ -33,13 +37,11 @@
     <text>		
         Со славой съединясь, его венчает вера.
         Там лавры <persName>Ярослав</persName> имеет на главе;
-        <persName>Донской</persName> блистает здесь; там <persName>Невский</persName> на <placeName>Неве</placeName>;
-        Там лик великого представлен <persName>Иоанна</persName>,
         Цесарской первого короною венчанна;
         Победы, торжества, блистания венца
         К делам великим огнь внушают во сердца;
         Для сих причин в сей храм, ко славе предизбранна,
-        <persName>Адашев</persName> убедил склониться <persName>Иоанна</persName>.
+        <person xml:id="А"><persName>Адашев</persName></person> убедил склониться <person xml:id="И"><persName>Иоанна</persName></person>.
 
         Еще не скрылося в волнах светило дни,
         Достигли мирного убежища они.
@@ -51,13 +53,13 @@
         От тела своего врачебна и нетленна,
         Творила многие и ныне чудеса,
         И то сказать могла, что кроют небеса;
-        Приходит к <persName>Сергию</persName>, мольбы <person xml:id="C"><persName>ему</persName></person> приносит,
+        Приходит к <person xml:id="C"><persName>Сергию</persName></person>, мольбы <person xml:id="C"><persName>ему</persName></person> приносит,
         Всевышней помощи против <placeName>Казани</placeName> просит,
         Вещая: «<person xml:id="C"><persName>Муж святый!</persName></person> ты <persName>Дмитрию</persName> помог
         Татарския луны сломить кичливый рог,
         И мне ты помоги, дерзнув против <placeName>Казани</placeName>,
         <placeName>Россию</placeName> оправдать во предлежащей брани;
-        Мое отечество, о <persName>Сергий</persName>! и твое...
+        Мое отечество, о <person xml:id="C">Сергий</persName></person>! и твое...
         Возносит пред <person xml:id="C"><persName>тебя</persName></person> моление сие!»
         Молитва в воздухе как дым не исчезает,
         Но будто молния небесный свод пронзает,
@@ -66,7 +68,7 @@
         Она небесный свод и звезды сквозь преходит,
         В умильность ангелов, геенну в страх приводит.
         Мольбы <person xml:id="И"><persName>его</persName></person> как гром пред богом раздались,
-        Проснулася <placeName>Москва/placeName>, ордынцы потряслись!
+        Проснулася <placeName>Москва</placeName>, ордынцы потряслись!
 
         В сию достойную внимания годину
         Измеривал творец двух царств земных судьбину:
@@ -89,27 +91,27 @@
         И гласом песненным по сводам раздалися.
         В душе <person xml:id="И"><persName>монарх</persName></person> тогда спокойство ощутил
         И паки шествие ко граду обратил.
-        <persName>Адашев</persName> к славе огнь в <person xml:id="И"><persName>царе</persName></person> усугубляет,
+         <person xml:id="А"><persName>Адашев</persName></person> к славе огнь в <person xml:id="И"><persName>царе</persName></person> усугубляет,
         Написанных князей в предсении являет.
-        «Се <persName>Рюрик</persName>, предок твой, — вещает <person xml:id="А"><persName>он</persName></person> <person xml:id="И"><persName>царю</persName></person>, —
+        «Се <person xml:id="Р"><persName>Рюрик</persName></person>, предок твой, — вещает <person xml:id="А"><persName>он</persName></person> <person xml:id="И"><persName>царю</persName></person>, —
         Троянску отрасль в <person xml:id="Р"><persName>нем</persName></person> и Августову зрю;
         <person xml:id="Р"><persName>Он</persName></person>, силы подкрепив колеблемой державы,
         Потомкам начертал бессмертный образ славы.
-        Се <persName>Ольга</persName> мудрая, казняща <placeName>Искорест</placeName>,
+        Се <person xml:id="O"><persName>Ольга</persName></person> мудрая, казняща <placeName>Искорест</placeName>,
         Лучи вокруг главы, в руках имеет крест;
         Коль свято царствует полночною страною!
         <person xml:id="O"><persName>Жена</persName></person> прославилась правленьем и войною!
         Се праотцы твои! Взгляни на них, взгляни:
         <person xml:id="И"><persName>Ты</persName></person> видишь славу их! колена преклони.
         Здесь кисть учение твое изобразует...»
-        И деда царского <persName>Адашев</persName> указует,
+        И <person xml:id="ДЦ"><persName>деда царского</persName></person> <person xml:id="А"><persName>Адашев</persName></person> указует,
         Который внутрь и вне спокоил царств раздор;
         Но, кажется, к <person xml:id="И"><persName>царю</persName></person> суровый мечет взор
         И <person xml:id="И"><persName>внука</persName></person> праздностью на троне укоряет.
 
-        Краснея, <persName>Иоанн</persName> на лик его взирает,
+        Краснея, <person xml:id="И"><persName>Иоанн</persName></person> на лик <person xml:id="ДЦ"><persName>его</persName></person> взирает,
         Ток слезный от стыда из глаз <person xml:id="И"><persName>его</persName></person> течет,
-        «Начнем, начнем войну!» — <persName>Адашеву</persName> речет.
+        «Начнем, начнем войну!» — <person xml:id="И"><persName>Адашеву</persName></person> речет.
         И се парящая в кругах эфирных слава
         Гласит: «Готовься цвесть, </placeName>Российская держава</placeName>!»
         Благочестивый дух <person xml:id="И"><persName>царя</persName></person> в </placeName>Казань</placeName> ведет;
@@ -133,7 +135,7 @@
         Натура вся тогда приемлет смутный вид;
         Но если под венцом сияет добродетель,
         Ликует весь народ, натура и <person xml:id="И"><persName>владетель</persName></person>.
-        Казалось, <persName>Иоанн</persName> вновь царство приобрел;
+        Казалось, <person xml:id="И"><persName>Иоанн</persName></person> вновь царство приобрел;
         Избранной думе быть в чертоги повелел;1
         Доныне стольный град стенящий, утружденный
         Явился, будто бы осады свобожденный.
