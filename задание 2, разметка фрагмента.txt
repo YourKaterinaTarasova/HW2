@@ -1,0 +1,142 @@
+<TEI> 
+    <teiHeader>  
+        <fileDesc>
+            <titleStmt>
+               <title>М.М. Херасков "Россиада"</title>
+            </titleStmt>
+            <respStmt>
+			   <persName>Тарасова Екатерина</persName>
+               <resp>Создание TEI документа, выделение в тексте персоналий</resp>
+            </respStmt>
+        </fileDesc>
+        <profileDesc>
+            <particDesc>
+                <listPerson type="historical">
+                    <person xml:id="И">
+                        <persName>Иоанн</persName>
+                    </person>
+                    <person xml:id="А">
+                        <persName>Адашев</persName>
+                    </person>
+					<person xml:id="C">
+                        <persName>Сергий</persName>
+                    </person>
+					<person xml:id="Р">
+                        <persName>Рюрик</persName>
+                    </person>
+					<person xml:id="O">
+                        <persName>Ольга</persName>
+                </listPerson>
+            </particDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+		
+Со славой съединясь, его венчает вера.
+Там лавры <persName>Ярослав</persName> имеет на главе;
+<persName>Донской</persName> блистает здесь; там <persName>Невский</persName> на <placeName>Неве</placeName>;
+Там лик великого представлен <persName>Иоанна</persName>,
+Цесарской первого короною венчанна;
+Победы, торжества, блистания венца
+К делам великим огнь внушают во сердца;
+Для сих причин в сей храм, ко славе предизбранна,
+<persName>Адашев</persName> убедил склониться <persName>Иоанна</persName>.
+
+Еще не скрылося в волнах светило дни,
+Достигли мирного убежища они.
+Сопутницей своей имея добродетель,
+Как будто видел рай в обители <person xml:id="И"><persName>владетель</persName></person>:
+Во славе зрится бог, присутствующий там!
+С священным ужасом вступил в господний храм;
+<person xml:id="И"><persName>Он</persName></person> ведал, что душа, на небо вознесенна,
+От тела своего врачебна и нетленна,
+Творила многие и ныне чудеса,
+И то сказать могла, что кроют небеса;
+Приходит к <persName>Сергию</persName>, мольбы <person xml:id="C"><persName>ему</persName></person> приносит,
+Всевышней помощи против <placeName>Казани</placeName> просит,
+Вещая: «<person xml:id="C"><persName>Муж святый!</persName></person> ты <persName>Дмитрию</persName> помог
+Татарския луны сломить кичливый рог,
+И мне ты помоги, дерзнув против <placeName>Казани</placeName>,
+<placeName>Россию</placeName> оправдать во предлежащей брани;
+Мое отечество, о <persName>Сергий</persName>! и твое...
+Возносит пред <person xml:id="C"><persName>тебя</persName></person> моление сие!»
+Молитва в воздухе как дым не исчезает,
+Но будто молния небесный свод пронзает,
+На радужных она возносится крылах:
+Молитву искренну читает бог в сердцах;
+Она небесный свод и звезды сквозь преходит,
+В умильность ангелов, геенну в страх приводит.
+Мольбы <person xml:id="И"><persName>его</persName></person> как гром пред богом раздались,
+Проснулася <placeName>Москва/placeName>, ордынцы потряслись!
+
+В сию достойную внимания годину
+Измеривал творец двух царств земных судьбину:
+Российский до небес возвысился венец,
+Ордынской гордости означился конец;
+Но победительным народам и державе
+Препятства предлежать в гремящей будут славе.
+Рассеется орда, угаснет их престол,
+Но россам наперед устроит много зол.
+
+Тогда господнее изрек определенье
+<person xml:id="C"><persName>Орган небесных тайн</persName></person> в священном исступленье,
+Трепещущ, духом полн, служащий алтарю,
+<person xml:id="C"><persName>Душ пастырь</persName></person> возвестил пророчества <person xml:id="И"><persName>царю</persName></person>:
+«О <person xml:id="И"><persName>царь</persName></person>! сплетаются <person xml:id="И"><persName>тебе</persName></person> венцы лавровы,
+<person xml:id="C"><persName>Я</persName></person> вижу новый трон, короны вижу новы!
+Но царства покорить и славу обрести,
+<person xml:id="И"><persName>Ты</persName></person> должен многие страданья пренести.
+Гряди, и буди тверд!..» Слова произнеслися
+И гласом песненным по сводам раздалися.
+В душе <person xml:id="И"><persName>монарх</persName></person> тогда спокойство ощутил
+И паки шествие ко граду обратил.
+<persName>Адашев</persName> к славе огнь в <person xml:id="И"><persName>царе</persName></person> усугубляет,
+Написанных князей в предсении являет.
+«Се <persName>Рюрик</persName>, предок твой, — вещает <person xml:id="А"><persName>он</persName></person> <person xml:id="И"><persName>царю</persName></person>, —
+Троянску отрасль в <person xml:id="Р"><persName>нем</persName></person> и Августову зрю;
+<person xml:id="Р"><persName>Он</persName></person>, силы подкрепив колеблемой державы,
+Потомкам начертал бессмертный образ славы.
+Се <persName>Ольга</persName> мудрая, казняща <placeName>Искорест</placeName>,
+Лучи вокруг главы, в руках имеет крест;
+Коль свято царствует полночною страною!
+<person xml:id="O"><persName>Жена</persName></person> прославилась правленьем и войною!
+Се праотцы твои! Взгляни на них, взгляни:
+<person xml:id="И"><persName>Ты</persName></person> видишь славу их! колена преклони.
+Здесь кисть учение твое изобразует...»
+И деда царского <persName>Адашев</persName> указует,
+Который внутрь и вне спокоил царств раздор;
+Но, кажется, к <person xml:id="И"><persName>царю</persName></person> суровый мечет взор
+И <person xml:id="И"><persName>внука</persName></person> праздностью на троне укоряет.
+
+Краснея, <persName>Иоанн</persName> на лик его взирает,
+Ток слезный от стыда из глаз <person xml:id="И"><persName>его</persName></person> течет,
+«Начнем, начнем войну!» — <persName>Адашеву</persName> речет.
+И се парящая в кругах эфирных слава
+Гласит: «Готовься цвесть, </placeName>Российская держава</placeName>!»
+Благочестивый дух <person xml:id="И"><persName>царя</persName></person> в </placeName>Казань</placeName> ведет;
+Престольный град <person xml:id="И"><persName>его</persName></person> с гремящим плеском ждет.
+Всевышний на <person xml:id="И"><persName>него</persName></person> склонил свою зеницу,
+И <person xml:id="И"><persName>царь</persName></person> торжественно вступил в свою столицу;
+Окрестности ее внезапно процвели,
+Во сретенье </person xml:id="И"><persName>ему</persName></person>, казалось, рощи шли;
+Суровостью времен веселость умерщвленна
+В долинах и лесах явилась оживленна;
+Как будто бы струи прешедый чермных вод,
+Ликует на холмах толпящийся народ;
+Подъемлет высоко <placeName>Москва</placeName> верхи златые,
+И храмы пением наполнились святые;
+Любовью видит <person xml:id="И"><persName>царь</persName></person> возженные сердца,
+Зрит в подданных детей, они в </person xml:id="И"><persName>царе</persName></person> — отца;
+На лицах радости, в очах увеселенье,
+И духом сладкое вкушает умиленье.
+
+Коль <person xml:id="И"><persName>царь</persName></person> всевышню власть нечестием гневит,
+Натура вся тогда приемлет смутный вид;
+Но если под венцом сияет добродетель,
+Ликует весь народ, натура и <person xml:id="И"><persName>владетель</persName></person>.
+Казалось, <persName>Иоанн</persName> вновь царство приобрел;
+Избранной думе быть в чертоги повелел;1
+Доныне стольный град стенящий, утружденный
+Явился, будто бы осады свобожденный.
+    </text>
+</TEI>
