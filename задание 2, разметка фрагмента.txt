@@ -113,7 +113,7 @@
         Ток слезный от стыда из глаз <person xml:id="И"><persName>его</persName></person> течет,
         «Начнем, начнем войну!» — <person xml:id="А"><persName>Адашеву</persName></person> речет.
         И се парящая в кругах эфирных слава
-        Гласит: «Готовься цвесть, </placeName>Российская держава</placeName>!»
+        Гласит: «Готовься цвесть, Российская держава!»
         Благочестивый дух <person xml:id="И"><persName>царя</persName></person> в </placeName>Казань</placeName> ведет;
         Престольный град <person xml:id="И"><persName>его</persName></person> с гремящим плеском ждет.
         Всевышний на <person xml:id="И"><persName>него</persName></person> склонил свою зеницу,
