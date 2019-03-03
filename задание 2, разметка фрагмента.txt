@@ -112,7 +112,7 @@
         И <person xml:id="И"><persName>внука</persName></person> праздностью на троне укоряет.
 
         Краснея, <person xml:id="И"><persName>Иоанн</persName></person> на лик <person xml:id="ДЦ"><persName>его</persName></person> взирает,
-        Ток слезный от стыда из глаз <person xml:id="И"><persName>его</persName></person> течет,
+        Ток слезный от стыда из глаз его течет,
         «Начнем, начнем войну!» — <person xml:id="А"><persName>Адашеву</persName></person> речет.
         И се парящая в кругах эфирных слава
         Гласит: «Готовься цвесть, Российская держава!»
